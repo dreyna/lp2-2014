@@ -1,0 +1,13 @@
+@CHARSET "ISO-8859-1";
+
+*{
+	margin: 0 auto;
+}
+
+{
+	color: yellow;
+}
+#cajaform{
+	width: 200px;
+	height: 100px;
+}
